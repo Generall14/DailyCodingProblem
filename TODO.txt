@@ -1,1 +1,2 @@
-DCP1: mam wrażenie, że to można zrobić cwaniej
+DCP1: mam wrażenie, że to można zrobić cwaniej.
+DCP2: jak to zrobić bez mnożenia?
